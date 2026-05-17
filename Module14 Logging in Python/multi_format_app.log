@@ -1,0 +1,10 @@
+2026-03-22 20:13:01,312 - multi_format_logger - DEBUG - This is a debug message
+2026-03-22 20:13:01,314 - multi_format_logger - INFO - This is an info message
+2026-03-22 20:13:01,316 - multi_format_logger - WARNING - This is a warning message
+2026-03-22 20:13:01,318 - multi_format_logger - ERROR - This is an error message
+2026-03-22 20:13:01,320 - multi_format_logger - CRITICAL - This is a critical message
+2026-03-22 21:38:02,652 - multi_format_logger - DEBUG - This is a debug message
+2026-03-22 21:38:02,654 - multi_format_logger - INFO - This is an info message
+2026-03-22 21:38:02,655 - multi_format_logger - WARNING - This is a warning message
+2026-03-22 21:38:02,657 - multi_format_logger - ERROR - This is an error message
+2026-03-22 21:38:02,660 - multi_format_logger - CRITICAL - This is a critical message
